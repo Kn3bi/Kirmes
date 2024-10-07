@@ -8,8 +8,7 @@ public class KirmesControl {
         startTheKirmes();
     }
 
-    private startTheKirmes(){
-
+    private void startTheKirmes(){
 
 
     }
